@@ -1,0 +1,7 @@
+gym-super-mario-bros==7.3.0
+nes-py==8.2.1
+stable-baselines3==2.2.1
+opencv-python
+matplotlib
+torch>=1.11.0
+numpy
