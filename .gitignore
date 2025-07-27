@@ -1,6 +1,5 @@
 .venv/
 __pycache__/
 *.zip
-*.pptx
 logs/
 tb_logs/
